@@ -1,2 +1,2 @@
 # Brain_Tumor_Detection_Cnn
-Cnn for brain tumor detection
+Cnn for brain tumor detection with dataset.
